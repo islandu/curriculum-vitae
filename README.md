@@ -37,7 +37,7 @@ __W Energy Software__ Tulsa, OK
 _Software Developer_  
 January 2020 - February 2020
 - Entry-level Ruby on Rails and GoLang developer
-- Role was terminated amid financial panic surrounding the imminent COVID-19 pandemic
+- Role was terminated amid financial concerns surrounding the imminent COVID-19 pandemic
 
 __University of Iowa__ Iowa City, IA  
 _Visiting Assistant Professor of Music Theory_  
@@ -66,7 +66,7 @@ August 2013 - August 2017
  
 __University of Colorado__ Boulder, CO  
 _M.S. in Computer Science_ (Current GPA: 4.0)  
-March 2024 -  
+March 2024 - Present  
 
 __University of Arkansas__ Fayetteville, AR  
 _M.M. in Music Composition_ (GPA: 4.0)  
