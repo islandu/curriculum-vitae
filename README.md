@@ -89,8 +89,8 @@ ASP.NET Core, Azure Service Fabric, Flask, NodeJS/Express, Firebase
 __Cloud Providers__  
 Azure, Google Cloud Platform, (only surface-level familiarity with AWS)  
 
-__Databases__
+__Databases__  
 MySQL, MS-SQL, SQLite, MongoDB, AzureCosmosDB  
 
-__CI/CD Infrastructure__
+__CI/CD Infrastructure__  
 Docker, GitHub Actions, AzureDevOps ("Classic" and YAML modes)  
