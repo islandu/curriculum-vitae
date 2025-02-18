@@ -15,7 +15,7 @@ __Atlas School__ Tulsa, OK
 _Software Engineer and Education Facilitator_  
 January 2023 - Present  
 - Serve as Systems Programming instructor
-- Teach C/C++ development on Linux systems, advanced data structures and algorithms, network programming, applied cryptography, and blockchain.
+- Teach C/C++ development on Linux systems, advanced data structures and algorithms, network programming, applied cryptography, and blockchain
 - Provide guest lectures for additional courses in web development, object-oriented programming, shell scripting, and DevOps
 - Designed new curriculum (approved by advisory board) that adds in-depth study of procedural and object-oriented design patterns, Dynamic Programming, embedded systems, GUI development with Qt/C++, and focused seminars on current topics in systems programming (e.g., Rust)
 - Provide technical support for student capstone projects
