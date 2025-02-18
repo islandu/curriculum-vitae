@@ -61,19 +61,19 @@ August 2011 - May 2013
 ## Education
 
 __Florida State University__ Tallahassee, FL  
-_Ph.D. in Music Theory & Composition_  
+_Ph.D. in Music Theory & Composition_ (GPA: 3.92)  
 August 2013 - August 2017  
  
 __University of Colorado__ Boulder, CO  
-_M.S. in Computer Science_  
+_M.S. in Computer Science_ (Current GPA: 4.0)  
 March 2024 -  
 
 __University of Arkansas__ Fayetteville, AR  
-_M.M. in Music Composition_  
+_M.M. in Music Composition_ (GPA: 4.0)  
 August 2011 - May 2013  
 
 __Northeastern State University__ Tahlequah, OK  
-_B.A. in Musical Arts_  
+_B.A. in Musical Arts_ (GPA: 3.49)  
 August 2007 - May 2011  
 
 ## Technical Skills
