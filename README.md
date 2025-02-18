@@ -1,18 +1,18 @@
 # Danielle Thompson, Ph.D.
 Pronouns: they/she  
 Location: Tulsa, OK  
-LeetCode: [https://leetcode.com/islandu](https://leetcode.com/islandu)
-GitHub: [https://github.com/islandu](https://github.com/islandu)
+GitHub: [https://github.com/islandu](https://github.com/islandu)  
+LeetCode: [https://leetcode.com/islandu](https://leetcode.com/islandu)  
 LinkedIn: [https://linkedin.com/in/danielle-t-887bb0158](https://linkedin.com/in/danielle-t-887bb0158)
 
 ## Introduction
-Hi, my name is Danielle! I am a software engineer/architect, educator, and improvisational musician with expertise in systems-level programming, cloud architecture, backend web development, and platform automation. As a programmer, I am proficient in C/C++, C#/.NET, Python, SQL/NoSQL databases, and shell scripting in Bash and Powershell. Rust is the main language I am learning now (via the Rust Book, not Generative AI).
+Hi, my name is Danielle! I am a software engineer/architect, educator, and improvisational musician with expertise in systems-level programming, cloud architecture, backend web development, and platform automation. As a programmer, I am proficient in C/C++, C#/.NET, Python, JavaScript, SQL/NoSQL databases, and shell scripting in Bash/ZSH and Powershell. Rust is the main language I am learning now (via the Rust Book, not Generative AI).
 
 
 ## Experience
 
 __Atlas School__ Tulsa, OK  
-_Software Engineer and Education Facilitator_
+_Software Engineer and Education Facilitator_  
 January 2023 - Present  
 - Serve as Systems Programming instructor
 - Teach C/C++ development on Linux systems, advanced data structures and algorithms, network programming, applied cryptography, and blockchain.
@@ -23,8 +23,8 @@ January 2023 - Present
 - Administer technical interviews for prospective software-engineering faculty
   
 __ENACOMM__ Tulsa, OK  
-_Software Developer_
-October 2020 - December 2022  
+_Software Developer_  
+October 2020 - December 2022
 - Developed financial technology services in C#/.NET (Azure Cloud/on-premises)
 - Technical lead for a small team of backend developers
 - Designed and built over a dozen cloud microservices in Azure Service Fabric
@@ -33,41 +33,64 @@ October 2020 - December 2022
 - Implemented cryptographic protocols to maintain PCI-DSS compliance in all backend software
 - Built CI/CD pipelines to automate hybrid cloud/on-premises deployments
 
-__W Energy Software__ Tulsa, OK
-_Software Developer_
+__W Energy Software__ Tulsa, OK  
+_Software Developer_  
 January 2020 - February 2020
-- Entry-level Ruby on Rails and golang developer
+- Entry-level Ruby on Rails and GoLang developer
 - Role was terminated amid financial panic surrounding the imminent COVID-19 pandemic
 
 __University of Iowa__ Iowa City, IA  
-_Visiting Assistant Professor of Music Theory_
-August 2017 - May 2019  
+_Visiting Assistant Professor of Music Theory_  
+August 2017 - May 2019
 - Taught graduate and undergraduate courses in Music Theory
 - Supervised 3-5 GTAs per semester
 - Built and taught a graduate course in computational music analysis (Python, music21, NumPy)
 - Delivered guest lectures on algorithmic composition and signal processing with SuperCollider (sclang/scsynth)
 - Additionally taught jazz piano to fulfill a need within the School of Music
 
+__Florida State University__ Tallahassee, FL  
+_Graduate Assistant in Music Theory_
+August 2013 - May 2017  
+- Taught undergraduate coursework in music theory and musicianship
+
+__University of Arkansas__ Tahlequah, OK  
+_Graduate Assistant in Music Theory_  
+August 2011 - May 2013  
+- Taught undergraduate coursework in music theory and musicianship
+
 ## Education
 
+__Florida State University__ Tallahassee, FL  
+_Ph.D. in Music Theory & Composition_  
+August 2013 - August 2017  
+ 
+__University of Colorado__ Boulder, CO  
+_M.S. in Computer Science_  
+March 2024 -  
 
+__University of Arkansas__ Fayetteville, AR  
+_M.M. in Music Composition_  
+August 2011 - May 2013  
 
+__Northeastern State University__ Tahlequah, OK  
+_B.A. in Musical Arts_  
+August 2007 - May 2011  
 
 ## Technical Skills
-__Programming Languages__
+__Programming Languages__  
 C/C++, C#/.NET, Python2/Python3, JavaScript/NodeJS, Bash, Powershell, and learning Rust  
   
 __Operating Systems__  
-Linux (Debian or Arch Derivatives), Windows, MacOS
+Linux (Debian or Arch Derivatives), MacOS, Windows  
   
 __Web/Cloud Frameworks__  
 ASP.NET Core, Azure Service Fabric, Flask, NodeJS/Express, Firebase  
   
 __Cloud Providers__  
-Azure, Google Cloud Platform, (only surface-level familiarity with AWS)
+Azure, Google Cloud Platform, (only surface-level familiarity with AWS)  
 
 __Databases__
-MySQL, MS-SQL, SQLite, MongoDB, AzureCosmosDB
+MySQL, MS-SQL, SQLite, MongoDB, AzureCosmosDB  
 
 __CI/CD Infrastructure__
-Docker, GitHub Actions, AzureDevOps ("Classic" and YAML modes)
+Docker, GitHub Actions, AzureDevOps ("Classic" and YAML modes)  
