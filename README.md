@@ -77,6 +77,7 @@ _B.A. in Musical Arts_ (GPA: 3.49)
 August 2007 - May 2011  
 
 ## Technical Skills
+
 __Programming Languages__  
 C/C++, C#/.NET, Python2/Python3, JavaScript/NodeJS, Bash, Powershell, and learning Rust  
   
@@ -94,3 +95,18 @@ MySQL, MS-SQL, SQLite, MongoDB, AzureCosmosDB
 
 __CI/CD Infrastructure__  
 Docker, GitHub Actions, AzureDevOps ("Classic" and YAML modes)  
+
+## Awards and Recognition
+
+__Employee of the Quarter__  
+ENACOMM (Q1, 2022)  
+
+__Best Graduate Student Paper Award__  
+Music Theory Southeast (April 2016)  
+
+__BMI Composition Prize (Finalist)__  
+Broadcast Music, Inc. (May 2014)  
+
+__Outstanding Teaching Assistant Award (Finalist)__  
+Florida State University (May 2014)  
+Nominated by a retired Physics faculty member that audited my section of Music Theory I  
