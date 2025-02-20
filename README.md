@@ -85,7 +85,7 @@ __Operating Systems__
 Linux (Debian or Arch Derivatives), MacOS, Windows  
   
 __Web/Cloud Frameworks__  
-ASP.NET Core, Azure Service Fabric, Flask, NodeJS/Express, Firebase  
+ASP.NET Core (MVC), Azure Service Fabric, Blazor, Flask, NodeJS/Express, Firebase  
   
 __Cloud Providers__  
 Azure, Google Cloud Platform, (only surface-level familiarity with AWS)  
